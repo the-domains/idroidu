@@ -1,0 +1,28 @@
+name: idroidu
+favicon: null
+layout_spectrum: 0.33527241507545114
+typography_spectrum: 0.40338637330569327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.08084683795459569
+  lightness: 0.3212467555422336
+  saturation: 0.10111846798099577
+  rhythmicContrast: 0.5764187942259014
+purpose: []
